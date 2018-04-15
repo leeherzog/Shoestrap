@@ -3,4 +3,18 @@ div {
     border: 1px solid red;
   }
 
+ nav {
+   position:fixed;
+   top: 0;
+   height: 50px;
+   border: 1px solid red;
+   width: 100%;
+   background-color: blue;
+   color: yellow;
+ }
+
+ body {
+   margin-top: 50px;
+ }
+
  
